@@ -1,0 +1,49 @@
+
+body{ background: url("https://dystopeek.fr/wp-content/uploads/2020/08/02-Paper-Mario.jpg") no-repeat;
+background-size: 1540px; }
+
+h3{color: white; }
+
+
+nav.menu-nav ul li.Button{
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.Button{ display: inline-block; }
+
+nav.menu-nav ul li.Button a{ color: white; text-decoration: none;
+padding: 20px;
+font-size: 20px;}
+
+nav.menu-nav ul li.Button:hover a{font-size: 30px; transition: 0.3s all;}
+
+div.origami img{ position: absolute; left: 1050px; right: 0px; top: 280px; }
+
+div.papercraft img{ position: absolute; left: 600px; right: px; top: 300px; transform: scaleX(-1); }
+
+
+
+.origami .text { z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    margin: 0 auto;
+    left: 70.5%;
+    right: 20%;
+    top: 46%;
+    color: black;
+    width: 10%;}
+
+.papercraft .texte { z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    margin: 0 auto;
+    left: 8.5%;
+    right: 20%;
+    top: 49%;
+    color: black;
+    width: 8.5%;}
+
+
+

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{ background-color: skyblue; 
+	margin: 0px; 
+	padding: 0px;
+	position: absolute; top: 50%; left: 50%; 
+	transform: translate(-50%, -50%); 
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold; }
+
+form{ background-color: white;
+	padding: 30px;
+	border-radius: 10px; }
+
+	form .corps-formulaire .groupe{margin-top: 20px; 
+		display: flex; 
+		flex-direction: column;
+		position: relative;}
+
+	form .corps-formulaire .gauche .groupe input {margin-top: 5px; 
+		padding: 10px 5px 10px 30px; 
+		border: 1px solid #c9c9c9; 
+		outline-color: blue;
+		border-radius: 5px;}
+
+	form .corps-formulaire .gauche .groupe i{position: absolute;
+		left: 0px;
+		top: 25px;
+		padding: 9px 8px;
+		color: blue;}
+
+	form .corps-formulaire .droite .groupe textarea{border: 1px solid #c9c9c9; 
+		outline-color: blue;
+		border-radius: 5px;
+		}
+
+	form .pied-formulaire button{margin-top: 20px;
+		font-size: 15px;
+		padding: 10px 20px;
+		border-radius: 5px;
+		border-color: skyblue;
+		outline: none;
+		cursor: pointer;}
+
+nav.menu-nav ul li.Button{
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.Button{ display: inline-block; }
+
+nav.menu-nav ul li.Button a{ color: white; text-decoration: none;
+padding: 20px;
+font-size: 20px;}
+
+nav.menu-nav ul li.Button:hover a{font-size: 30px; transition: 0.3s all;}
+
+footer{color: white; margin-top: 10px;}
+
+	
+
+
+
+
+
+

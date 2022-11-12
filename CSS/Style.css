@@ -1,0 +1,35 @@
+p{ color: black; font-size: 25px; padding-left: 520px;}
+
+
+h1{ color: white; padding-left: 625px; font-size: 50px; }
+
+h2{ color: white; }
+
+div#content div{display: inline-block; width: 48%; position: relative;}
+
+div#content div.leftbox{vertical-align: top; margin: 50px;}
+
+div#content div.rightbox{}
+
+body{ background: url("https://images7.alphacoders.com/333/333217.jpg") no-repeat;
+background-size: 1850px; }
+	
+nav.menu-nav ul li.Button{
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.Button{ display: inline-block; }
+
+nav.menu-nav ul li.Button a{ color: white; text-decoration: none;
+padding: 20px;
+font-size: 20px;}
+
+nav.menu-nav ul li.Button:hover a{font-size: 30px; transition: 0.3s all;}
+
+footer{color: white; margin-top: 50px;}
+
+
+
+
+
+

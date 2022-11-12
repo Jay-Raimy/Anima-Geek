@@ -1,0 +1,33 @@
+
+body{ background: url("https://catwithmonocle.com/wp-content/uploads/2020/05/pm-ok-team-3840x2160-1.jpg") no-repeat;
+background-size: 1550px; }
+
+nav.menu-nav ul li.Button{list-style-type: none;}
+
+nav.menu-nav ul li.Button{ display: inline-block; }
+
+nav.menu-nav ul li.Button a{ color: blue; text-decoration: none;
+padding: 20px;
+font-size: 20px;}
+
+nav.menu-nav ul li.Button:hover a{font-size: 30px; transition: 0.3s all;}
+
+div.papercrafteurs {position: absolute; top: 550px; left: 40px;}
+
+h4.papercrafteurs{ color: black; position: relative; left: 0px; }
+
+div.Canard img{position: absolute; top: 60px; left: 20px;}
+
+div.titrecanard {position: absolute; top: 210px; left: 50px;}
+
+div.Chat img{position: absolute; top: 250px; left: 15px;}
+
+div.titrechat {position: absolute; top: 400px; left: 50px;}
+
+div.Pingouin img{position: absolute; top: 70px; left: 300px;}
+
+div.titrepingouin {position: absolute; top: 210px; left: 300px;}
+
+div.Pokeball img{position: absolute; top: 280px; left: 300px;}
+
+div.titrepokeball {position: absolute; top: 400px; left: 320px;}
