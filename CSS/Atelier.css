@@ -40,3 +40,17 @@ div.textdonjon { z-index: 1;
     top: -220px;
     color: black;
     width: 10%;}
+
+div.dessin img{ position: absolute; left: 1050px; right: 0px; top: -50px; }
+
+div.textdessin { z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 12px;
+    margin: 0 auto;
+    left: 1110px;
+    right: 0px;
+    top: 0%;
+    color: black;
+    width: 10%;}
