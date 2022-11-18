@@ -26,7 +26,12 @@ font-size: 20px;}
 
 nav.menu-nav ul li.Button:hover a{font-size: 30px; transition: 0.3s all;}
 
-footer{color: white; margin-top: 50px;}
+div.Youtube img{position: absolute; top: 575px; left: -5px;}
+
+div.titreyoutube {position: absolute; top: 610px; left: 120px; color: white; font-size: 20px;}
+
+div.copyright {position: absolute; top: 665px;}
+
 
 
 
