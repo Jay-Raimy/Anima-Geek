@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{width: 100vw; height: 12vh; flex-direction: column;}
+
+.menu-nav{justify-content: space-evenly; font-size: 25px; margin-top: 1%;}
+
+.menu-nav li:hover{ transform: scale(2.2); transition: 0.5s;}
+
+li{list-style: none; display: inline-block;}
+
+.main {color: white; text-decoration: none;}
+
+.titre {color: white; font-size: 50px;}
+
+.sous-texte { color: black; font-size: 25px;}
+
+.gap-30 { gap: 30px;}
+
+.top-100 {margin-top: 4%;}
+
+.flex {display: flex;}
+
+.direction {flex-direction: column;}
+
+.justify {justify-content: center;}
+
+.align{align-items: center;}
+
+.flex-inline{display: inline-flex;}
+
+.flex-1{flex: 1;}
+
+.flex-3{flex: 3;}
+
+.container{height: 80vh;}
+
+.text{text-align: center;}
+
+.background{height: 100vh; width: 100vw; background: url("Doc/background.jpg") no-repeat; background-size: 100% 100%;}
+
+.ytb{ align-self: left; margin-bottom: 2%}
+
+.footer{position: absolute; bottom: 0; width: 100%; align-self: center; justify-self: center;}
+
+.backpaper{height: 100vh; width: 100vw; background: url("Doc/backpaper.jpg") no-repeat; background-size: 100% 100%;}
+
+.papercraft{ background-image: url("Doc/Bulle.png");
+    background-size: 100% 100%;
+    width: 17vw;
+    height: 27vh;
+    position: fixed; left: 38%; top: 38%; transform: scaleX(-1);}
+
+.origami{ background-image: url("Doc/Bulle.png");
+    background-size: 100% 100%;
+    width: 17vw;
+    height: 27vh;
+    position: fixed; left: 68%; right: px; top: 35%;}
+
+.Papertext {font-size: 200%; color: Blue;}
+    
+.bulle1{position: fixed; text-decoration: none; transform: scaleX(-1); }
+
+.bulle2{position: fixed; text-decoration: none;}
+
+.oriback{background-image: url("Doc/oribackground.jpg"); no-repeat; background-size: 100% 100%; height: 100vh; width: 100vw;}
+
+.blue{color: blue; text-decoration: none;}
+
+div.xwing img{position: fixed; top: 14%; left: 2%;}
+
+div.titre {position: fixed; top: 30%; left: 1%; font-size: 100%;}
+
+div.couronne img{position: fixed; top: 35%; left: 1%;}
+
+div.titre-couronne {position: fixed; top: 51%; left: 2.5%;}
+
+div.pika img{position: fixed; top: 56%; left: 1.5%;}
+
+div.titre-pika {position: fixed; top: 72%; left: 2%;}
+
+div.papercrafteurs {position: fixed; top: 85%; left: 1%;}
+
+.paperlink{color: white;}
+
+h4.papercrafteurs{ color: black; position: fixed; left: 1%; top: 90%;}
+
+div.Canard img{position: fixed; top: 13%; left: 1%;}
+
+div.titrecanard {position: fixed; top: 32%; left: 3%;}
+
+div.Chat img{position: fixed; top: 42%; left: 2%;}
+
+div.titrechat {position: fixed; top: 62%; left: 4%;}
+
+div.Pingouin img{position: fixed; top: 13%; left: 15%;}
+
+div.titrepingouin {position: fixed; top: 32%; left: 19%;}
+
+div.Pokeball img{position: fixed; top: 45%; left: 19%;}
+
+div.titrepokeball {position: fixed; top: 62%; left: 21%;}
+
+div.Pingouinglisse img{position: fixed; top: 14%; left: 32%;}
+
+div.titreglisse {position: fixed; top: 32%; left: 33%;}
+
+div.Licorne img{position: fixed; top: 44%; left: 30%;}
+
+div.titrelicorne {position: fixed; top: 62%; left: 33%;}
+
+div.jeux {background-image: url(Doc/jeuxbackground.jpg) ; no-repeat; background-size: 100% 100%; height: 100vh; width: 100vw; }
+
+div.profscratch {position: fixed; top: 90%; left: 2%;}
+
+h4.profscratch{ color: black; position: relative; left: 0px; }
+
+div.picoquizz {position: fixed; top: 18%; left: 1%;}
+
+div.titre1 {position: fixed; top: 76%; left: 11%;}
+
+div.escapegame {position: fixed; top: 18%; left: 34%;}
+
+div.titre2 {position: fixed; top: 76%; left: 45%;}
+
+p{ color: white; font-size: 25px; }
+
+h4.picoquizz{ color: white; position: fixed; left: 4%; }
+
+h4.escapegame{ color: white; position: fixed; left: 46%; }
+
+div.Papillons {position: fixed; top: 18%; left: 67%;}
+
+div.titrepapillon {position: fixed; top: 76%; left: 75%;}
+
+h4.papillon{ color: white; position: fixed; left: 70%; }
+
+.atelier {background-image: url(Doc/atelier.jpg) ; no-repeat; background-size: 100% 100%; height: 100vh; width: 100vw; }
+
+.bigText{ font-size: 130%; color: Blue;}
+
+.post-it-cirque{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 5%; right: 0px; top: 15%;}
+
+.post-it-donjon{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 10%; right: 0px; top: 50%;}
+
+.post-it-dessin{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 70%; right: 0px; top: 28%;}
