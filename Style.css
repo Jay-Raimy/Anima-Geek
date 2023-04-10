@@ -151,3 +151,7 @@ h4.papillon{ color: white; position: fixed; left: 70%; }
 .post-it-donjon{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 10%; right: 0px; top: 50%;}
 
 .post-it-dessin{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 70%; right: 0px; top: 28%;}
+
+div.ludotheque {background-image: url(Doc/bg-ludo.png) ; no-repeat; background-size: 100% 100%; height: 100vh; width: 100vw; }
+
+div.textepatissorcier{ color: white; position: fixed; top: 20%; left: 20%; right: 5%;}
