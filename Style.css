@@ -120,7 +120,11 @@ div.jeux {background-image: url(Doc/jeuxbackground.jpg) ; no-repeat; background-
 
 div.profscratch {position: fixed; top: 90%; left: 2%;}
 
-h4.profscratch{ color: black; position: relative; left: 0px; }
+h4.profscratch{ color: black; position: fixed; left: 0px; }
+
+div.profscratch {position: fixed; top: 90%; left: 80%;}
+
+h4.profscratch{ color: black; position: fixed; left: 80%; }
 
 div.picoquizz {position: fixed; top: 18%; left: 1%;}
 
