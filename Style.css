@@ -150,11 +150,13 @@ h4.papillon{ color: white; position: fixed; left: 70%; }
 
 .bigText{ font-size: 130%; color: Blue;}
 
-.post-it-cirque{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 5%; right: 0px; top: 15%;}
+.post-it-cirque{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 5%; right: 0px; top: 18%;}
 
-.post-it-donjon{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 10%; right: 0px; top: 50%;}
+.post-it-donjon{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 18%; right: 0px; top: 50%;}
 
-.post-it-dessin{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 16vw; height: 32vh; position: fixed; left: 70%; right: 0px; top: 28%;}
+.post-it-dessin{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 78%; right: 0px; top: 18%;}
+
+.post-it-lego{ background-image: url("Doc/postit.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 62%; right: 0px; top: 35%;}
 
 div.ludotheque {
     background-image: url("Doc/jeuxbackground.jpg");
