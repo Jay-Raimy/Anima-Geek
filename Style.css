@@ -189,3 +189,19 @@ div.textevino {
     left: 20%;
     right: 5%;
 }
+
+div.lsf{ 
+    color: white; 
+    position: fixed; 
+    top: 59%; 
+    left: 5.5%; 
+    right: 5%;
+}
+
+div.textelsf{ 
+    color: white; 
+    position: fixed; 
+    top: 64%; 
+    left: 20%; 
+    right: 5%;
+}
