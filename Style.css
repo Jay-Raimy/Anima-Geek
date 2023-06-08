@@ -84,6 +84,10 @@ div.titre-pika {position: fixed; top: 72%; left: 2%;}
 
 div.dracaufeu img{position: fixed; top: 14%; left: 14%;}
 
+div.carnet img{position: fixed; top: 35%; left: 14%;}
+
+div.titre-carnet {position: fixed; top: 51%; left: 14%; font-size: 100%;}
+
 div.titre-dracaufeu {position: fixed; top: 30%; left: 16%; font-size: 100%;}
 
 div.papercrafteurs {position: fixed; top: 85%; left: 1%;}
