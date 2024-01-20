@@ -102,6 +102,10 @@ div.enveloppe img{position: fixed; top: 34%; left: 26%;}
 
 div.titre-enveloppe {position: fixed; top: 51%; left: 28.5%; font-size: 100%;}
 
+div.papillon img{position: fixed; top: 55%; left: 26%;}
+
+div.titre-papillon {position: fixed; top: 71%; left: 28.5%; font-size: 100%;}
+
 div.papercrafteurs {position: fixed; top: 85%; left: 1%;}
 
 .paperlink{color: white;}
