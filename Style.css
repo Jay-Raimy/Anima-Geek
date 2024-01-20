@@ -94,6 +94,10 @@ div.coeur_page img{position: fixed; top: 54%; left: 14%;}
 
 div.titre-coeur {position: fixed; top: 71%; left: 14%; font-size: 100%;}
 
+div.box img{position: fixed; top: 12%; left: 28%;}
+
+div.titre-box {position: fixed; top: 30%; left: 28%; font-size: 100%;}
+
 div.papercrafteurs {position: fixed; top: 85%; left: 1%;}
 
 .paperlink{color: white;}
