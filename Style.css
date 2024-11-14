@@ -234,4 +234,6 @@ div.textegold{ color: white; position: fixed; top: 85%; left: 20%; right: 5%;}
 
 .dobby{background-image: url("Doc/Dobby.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 0%; right: 0px; top: 74%;}
 
+.traduction{ background-image: url("Doc/traducteur.png"); background-size: 100% 100%; width: 12vw; height: 20vh; position: fixed; left: 5%; right: 0px; top: 18%;}
 
+.titre-trad{position: fixed; top: 40%; left: 6%;}
