@@ -229,3 +229,9 @@ div.textelsf{
 div.gold{ color: white; position: fixed; top: 81%; left: 3.5%; right: 5%;}
 
 div.textegold{ color: white; position: fixed; top: 85%; left: 20%; right: 5%;}
+
+.mouton{ background-image: url(Doc/mouton-bg.jpg); no-repeat ; background-size: 100% 100% ; height: 100vh ; width: 100vw ;}
+
+.dobby{background-image: url("Doc/Dobby.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 0%; right: 0px; top: 74%;}
+
+
