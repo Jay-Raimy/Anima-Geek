@@ -42,9 +42,9 @@ li{list-style: none; display: inline-block;}
 
 .background{height: 100vh; width: 100vw; background: url("Doc/background.jpg") no-repeat; background-size: 100% 100%;}
 
-.ytb{ align-self: left; margin-bottom: 0%}
+.ytb img{ position: fixed; top: 79%;}
 
-.insta img{position: fixed; left: 10%; top: 79%;}
+.insta img{position: fixed; left: 9%; top: 79%;}
 
 .footer{position: absolute; bottom: 0; width: 100%; align-self: center; justify-self: center;}
 
