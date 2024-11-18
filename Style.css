@@ -44,7 +44,7 @@ li{list-style: none; display: inline-block;}
 
 .ytb{ align-self: left; margin-bottom: 0%}
 
-.insta{ align-self: left; margin-bottom: 8%; margin-left: 28%;}
+.insta{ align-self: left; position: relative; left: 5%; top: 39%;}
 
 .footer{position: absolute; bottom: 0; width: 100%; align-self: center; justify-self: center;}
 
