@@ -42,7 +42,9 @@ li{list-style: none; display: inline-block;}
 
 .background{height: 100vh; width: 100vw; background: url("Doc/background.jpg") no-repeat; background-size: 100% 100%;}
 
-.ytb{ align-self: left; margin-bottom: 2%}
+.ytb{ align-self: left; margin-bottom: 0%}
+
+.insta{ align-self: left; margin-bottom: 8%; margin-left: 28%;}
 
 .footer{position: absolute; bottom: 0; width: 100%; align-self: center; justify-self: center;}
 
@@ -237,3 +239,19 @@ div.textegold{ color: white; position: fixed; top: 85%; left: 20%; right: 5%;}
 .traduction{ background-image: url("Doc/traducteur.png"); background-size: 100% 100%; width: 12vw; height: 20vh; position: fixed; left: 5%; right: 0px; top: 18%;}
 
 .titre-trad{position: fixed; top: 40%; left: 6%;}
+
+div.bird img{position: fixed; top: 19%; left: 20%;}
+
+div.titre-bird {position: fixed; top: 40%; left: 23%;}
+
+div.baleine img{position: fixed; top: 19%; left: 32%;}
+
+div.titre-baleine {position: fixed; top: 40%; left: 36%;}
+
+div.pok img{position: fixed; top: 19%; left: 45%;}
+
+div.titre-pok {position: fixed; top: 40%; left: 48.5%;}
+
+div.bomb img{position: fixed; top: 18%; left: 57%;}
+
+div.titre-bomb {position: fixed; top: 40%; left: 60%;}
