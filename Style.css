@@ -200,6 +200,10 @@ div.gold{ color: white; position: fixed; top: 20%; left:50%; right: 5%;}
 
 div.titregold{ color: white; position: fixed; top: 42%; left: 52%; right: 5%;}
 
+div.munchkin{color: white; position: fixed; top: 20%; left:67%; right: 5%;}
+
+div.titremunchkin{ color: white; position: fixed; top: 42%; left: 73%; right: 5%;}
+
 .mouton{ background-image: url(Doc/mouton-bg.jpg); no-repeat ; background-size: 100% 100% ; height: 100vh ; width: 100vw ;}
 
 .dobby{background-image: url("Doc/Dobby.png"); background-size: 100% 100%; width: 14vw; height: 30vh; position: fixed; left: 0%; right: 0px; top: 74%;}
