@@ -4,6 +4,8 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.underline {text-decoration: none;}
+
 .header{width: 100vw; height: 12vh; flex-direction: column;}
 
 .menu-nav{justify-content: space-evenly; font-size: 25px; margin-top: 1%;}
